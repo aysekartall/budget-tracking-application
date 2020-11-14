@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803640634026",
+    "firebase_url": "https://butcetakipuygulamasi-9a202.firebaseio.com",
+    "project_id": "butcetakipuygulamasi-9a202",
+    "storage_bucket": "butcetakipuygulamasi-9a202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803640634026:android:9491543853f0b869",
+        "android_client_info": {
+          "package_name": "com.example.butcetakipuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803640634026-s22c79c9ad0v3559vl0p0ifkpfirejua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.butcetakipuygulamasi",
+            "certificate_hash": "d51b0fdabb5c00a60bc98a6996b1119a42160016"
+          }
+        },
+        {
+          "client_id": "803640634026-c2cca6betf6pcrmrc1eardtidfhj9gfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUr5v8C872ut8qx-c1AZQS9NKiR88xlEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803640634026-c2cca6betf6pcrmrc1eardtidfhj9gfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

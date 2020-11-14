@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Günlük"
+        android:id="@+id/gun"
+        />
+
+    <item
+        android:title="Haftalık"
+        android:id="@+id/hafta"
+        />
+
+    <item
+        android:title="Aylık"
+        android:id="@+id/ay"
+        />
+
+    <item
+        android:title="Yıllık"
+        android:id="@+id/yil"
+        />
+
+</menu>

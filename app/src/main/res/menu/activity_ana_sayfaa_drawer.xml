@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ana_sayfagit"
+            android:icon="@drawable/mainpage"
+            android:title="Anasayfa" />
+        <item
+            android:id="@+id/gelir_hesapla"
+            android:icon="@drawable/plus"
+            android:title="Gelirler" />
+        <item
+            android:id="@+id/gider_hesapla"
+            android:icon="@drawable/minus"
+            android:title="Giderler" />
+        <item
+            android:id="@+id/hesap_özet"
+            android:icon="@drawable/hesapozet"
+            android:title="Özet" />
+    </group>
+
+    <item android:title="Ayarlar">
+        <menu>
+            <item
+                android:id="@+id/paylas"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Paylaş" />
+            <item
+                android:id="@+id/cikis_yap"
+                android:icon="@drawable/signout"
+                android:title="Çıkış Yap" />
+        </menu>
+    </item>
+
+</menu>
